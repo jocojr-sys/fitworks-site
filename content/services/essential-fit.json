@@ -1,0 +1,21 @@
+{
+  "title": "Essential Fit",
+  "group": "full",
+  "order": 2,
+  "badge": "",
+  "duration": "90 minutes",
+  "bikeNote": "Your bike",
+  "disciplines": "Any discipline",
+  "bestFor": "setting up a new bike you already own, a refresh after a fit elsewhere, or a professional baseline without the full data session.",
+  "includes": [
+    "Interview and quick movement screen",
+    "Cleat position, saddle height, setback, and reach set while you ride",
+    "Side and front video, before and after",
+    "Summary sheet with your measurements",
+    "Upgrade to a Complete Fit within 30 days and pay only the difference"
+  ],
+  "price": "$245",
+  "priceNote": "per rider, one bike",
+  "bookLabel": "Book Essential Fit",
+  "featured": false
+}

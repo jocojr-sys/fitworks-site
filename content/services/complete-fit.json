@@ -1,0 +1,21 @@
+{
+  "title": "Complete Fit",
+  "group": "full",
+  "order": 1,
+  "badge": "Most riders start here",
+  "duration": "2.5 to 3 hours",
+  "bikeNote": "Your bike",
+  "disciplines": "Road, gravel, mountain",
+  "bestFor": "pain or numbness that hasn't gone away, a first proper fit, or a position you've never been fully happy with.",
+  "includes": [
+    "Interview, injury history, and off-bike movement assessment",
+    "Foot and cleat setup, with wedges and shims if you need them",
+    "Velogic Studio 3D motion capture, both sides, synchronized with video",
+    "Every change tested on the fit bike, then transferred to your bike and checked",
+    "Written report with your numbers, plus a free follow-up within 60 days"
+  ],
+  "price": "$395",
+  "priceNote": "per rider, one bike",
+  "bookLabel": "Book Complete Fit",
+  "featured": true
+}

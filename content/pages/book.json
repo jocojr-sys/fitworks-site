@@ -1,0 +1,56 @@
+{
+  "head": {
+    "eyebrow": "Get started",
+    "title": "Book a fit",
+    "text": "Tell us what you need and when you can come. We'll confirm a time within one business day and send the questionnaire. Prefer to talk first? Email info@fitworksstudio.com."
+  },
+  "days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+  ],
+  "slotsHint": "Morning and afternoon slots on each day. Fits start at 9:00 and 13:30.",
+  "notesLabel": "What's going on with your riding?",
+  "notesPlaceholder": "What hurts, what you ride, and what you'd like to change. Short is fine.",
+  "submitLabel": "Request a time",
+  "paymentNote": "No payment now. You pay when the session is confirmed.",
+  "successTitle": "Request received",
+  "successText": "We'll email you a confirmed time within one business day, along with the pre-fit questionnaire. If you don't hear from us, email info@fitworksstudio.com.",
+  "cards": [
+    {
+      "title": "The studio",
+      "lines": [
+        "FitWorks Studio",
+        "201 E Main St",
+        "Remington, VA 22734"
+      ],
+      "note": "Free parking at the door. Bring the bike in with you.",
+      "bulleted": false
+    },
+    {
+      "title": "Fitting hours",
+      "lines": [
+        "Tuesday to Friday, 9:00 to 17:00",
+        "Saturday, 9:00 to 14:00",
+        "By appointment only"
+      ],
+      "note": "",
+      "bulleted": true
+    },
+    {
+      "title": "Before your fit",
+      "lines": [
+        "Complete the questionnaire we send you",
+        "Wear your kit and bring your shoes",
+        "Eat beforehand. You'll be pedalling for a while.",
+        "Bring any previous fit reports"
+      ],
+      "note": "",
+      "bulleted": true
+    }
+  ],
+  "photo": "/images/hero.webp",
+  "photoCaption": "The fitting studio, with the Retül Müve and the Velogic Studio cameras"
+}

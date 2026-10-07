@@ -1,0 +1,21 @@
+{
+  "title": "Fit Before You Buy",
+  "group": "full",
+  "order": 3,
+  "badge": "Before you spend thousands",
+  "duration": "2 hours now, 45 minutes when the bike arrives",
+  "bikeNote": "Our fit bike",
+  "disciplines": "",
+  "bestFor": "anyone about to buy a road, gravel, or tri bike who wants the right frame size, stem, bars, cranks, and saddle before the order goes in.",
+  "includes": [
+    "Full assessment and dynamic fit on our adjustable fit bike, no bike required",
+    "Your position as X and Y coordinates, so any brand can be checked against it",
+    "Shortlist of frames that fit, at your budget, checked against a database of 18,000 bikes",
+    "Component spec sheet to hand to the shop or builder",
+    "Final setup session on the new bike, included"
+  ],
+  "price": "$295",
+  "priceNote": "includes the setup session",
+  "bookLabel": "Book Fit Before You Buy",
+  "featured": false
+}

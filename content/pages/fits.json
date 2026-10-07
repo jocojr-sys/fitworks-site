@@ -1,0 +1,27 @@
+{
+  "head": {
+    "eyebrow": "Services",
+    "title": "Fits and pricing",
+    "text": "Prices are listed so you can plan, and they include everything in the session. Parts you choose to buy are extra and never required. A second bike fitted in the same visit is $150."
+  },
+  "touchpointTitle": "Touchpoint sessions, for riders fitted in the last two years",
+  "included": {
+    "title": "Every full fit includes",
+    "text": "No upgrades, no surprise line items.",
+    "items": [
+      "Pre-fit questionnaire so we start informed",
+      "One rider in the studio at a time",
+      "Changes made to your bike on the day",
+      "Written report with photos and video",
+      "Your fit numbers kept on file, for life",
+      "Free follow-up within 60 days",
+      "Shim and wedge stock on hand",
+      "Returning-rider rates on later fits"
+    ]
+  },
+  "cta": {
+    "eyebrow": "",
+    "title": "Ready when you are",
+    "text": "Pick a session and a few days that work, and we'll confirm a time within one business day."
+  }
+}

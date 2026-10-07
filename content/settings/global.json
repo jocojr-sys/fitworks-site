@@ -1,0 +1,89 @@
+{
+  "siteName": "FitWorks Studio",
+  "tagline": "Dynamic bike fitting for road, gravel, triathlon, and mountain. Velogic Studio 3D capture on the Retül Müve. Any brand, one rider at a time.",
+  "email": "info@fitworksstudio.com",
+  "address": {
+    "line1": "201 E Main St",
+    "line2": "Remington, VA 22734"
+  },
+  "nav": [
+    {
+      "label": "Fitting Technology",
+      "href": "/fitting-technology"
+    },
+    {
+      "label": "Fits and pricing",
+      "href": "/fits-and-pricing"
+    },
+    {
+      "label": "Process",
+      "href": "/#process"
+    },
+    {
+      "label": "FAQ",
+      "href": "/#faq"
+    }
+  ],
+  "bookCta": {
+    "label": "Book a fit",
+    "href": "/book-a-fit"
+  },
+  "footerFits": [
+    {
+      "label": "Complete Fit",
+      "href": "/fits-and-pricing#complete-fit"
+    },
+    {
+      "label": "Essential Fit",
+      "href": "/fits-and-pricing#essential-fit"
+    },
+    {
+      "label": "Fit Before You Buy",
+      "href": "/fits-and-pricing#fit-before-you-buy"
+    },
+    {
+      "label": "Aero and TT Fit",
+      "href": "/fits-and-pricing#aero-and-tt-fit"
+    },
+    {
+      "label": "Touchpoint sessions",
+      "href": "/fits-and-pricing#saddle-session"
+    },
+    {
+      "label": "All fits and pricing",
+      "href": "/fits-and-pricing"
+    }
+  ],
+  "footerStudio": [
+    {
+      "label": "Process",
+      "href": "/#process"
+    },
+    {
+      "label": "Fitting Technology",
+      "href": "/fitting-technology"
+    },
+    {
+      "label": "What you take home",
+      "href": "/fitting-technology#takehome"
+    },
+    {
+      "label": "FAQ",
+      "href": "/#faq"
+    }
+  ],
+  "legalLinks": [
+    {
+      "label": "Privacy",
+      "href": "/privacy"
+    },
+    {
+      "label": "Cancellation policy",
+      "href": "/#faq"
+    },
+    {
+      "label": "Gift vouchers",
+      "href": "/book-a-fit"
+    }
+  ]
+}

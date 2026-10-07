@@ -1,0 +1,21 @@
+{
+  "title": "Aero and TT Fit",
+  "group": "full",
+  "order": 4,
+  "badge": "",
+  "duration": "Up to 4 hours",
+  "bikeNote": "Your bike",
+  "disciplines": "Triathlon, time trial, track",
+  "bestFor": "riders chasing speed who need a position they can actually hold, and put power through, for the full race.",
+  "includes": [
+    "Starts from your road position, then moves forward step by step",
+    "Motion capture, video, and power from the trainer at each candidate position",
+    "Extension, pad, and saddle options tested on the day",
+    "Front-on photos at each position so you can see what changed",
+    "Report with the trade-offs made explicit, plus a free follow-up"
+  ],
+  "price": "$495",
+  "priceNote": "per rider, one bike",
+  "bookLabel": "Book Aero Fit",
+  "featured": false
+}

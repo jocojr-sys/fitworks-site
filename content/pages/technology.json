@@ -1,0 +1,132 @@
+{
+  "head": {
+    "eyebrow": "Fitting technology",
+    "title": "Fitting technology, and what each tool is for",
+    "text": "Tools do not fit you. A fitter does. The tools let us see what the eye misses and show you that a change helped. Here is the technology we use, and what each piece is for, with nothing oversold."
+  },
+  "tools": [
+    {
+      "title": "Velogic Studio 3D motion capture",
+      "icon": "capture",
+      "text": "Two time-of-flight cameras, one each side, track your joints in three dimensions with no markers. The 3D data is drawn straight onto synchronized video of you pedalling.",
+      "tellsUs": "Knee, hip, ankle, and torso angles through the whole stroke, knee tracking from the front, left against right, and how it all drifts as you tire.",
+      "whyItMatters": "Every position is captured and logged, so two setups can be overlaid on the same video and compared side by side. You see the change, not just hear about it."
+    },
+    {
+      "title": "Power and cadence, live",
+      "icon": "power",
+      "text": "The trainer or your power meter feeds the capture over ANT+, so every position is recorded with the watts and cadence you produced in it.",
+      "tellsUs": "Whether a change cost or gained you power at the same effort, and whether your pedalling smooths out or falls apart when the position moves.",
+      "whyItMatters": "A position that looks right and feels fine but drops your output is not finished. Numbers settle it."
+    },
+    {
+      "title": "Retül Müve fit bike",
+      "icon": "fitbike",
+      "text": "Every contact point moves, it takes your own saddle, bars, and pedals, and it can be set to any bike's geometry.",
+      "tellsUs": "How a change feels and performs, position against position, without touching your bike until we are sure.",
+      "whyItMatters": "Adjustments happen between short rides rather than mid-pedal, so you feel each change fresh. It is also how Fit Before You Buy works with no bike in the room."
+    },
+    {
+      "title": "Bike documentation and Bike Finder",
+      "icon": "measure",
+      "text": "A measuring wand records your bike, or the fit bike, to the millimetre. Those coordinates are matched against Velogicfit's database of 18,000 bikes.",
+      "tellsUs": "Exactly where your saddle and bars sit relative to the bottom bracket, and which frames and stems from any brand will reproduce that position.",
+      "whyItMatters": "Your fit becomes a set of numbers you can take anywhere, and a new bike can be sized before it is ordered rather than after it arrives."
+    }
+  ],
+  "note": "Alongside those, the ordinary tools still do most of the work: laser level, goniometer, plumb line, inclinometer, and shoe and foot measuring. What we don't have is saddle pressure mapping or a wind tunnel. If your case needs one of those, we will say so and point you to a studio that has it.",
+  "rules": [
+    {
+      "title": "Data over opinion",
+      "text": "Every adjustment is checked against the numbers, not a rule of thumb from 1985. If a change doesn't improve something we can measure, it doesn't stay."
+    },
+    {
+      "title": "Your feedback over data",
+      "text": "The numbers narrow the choices. You decide what feels right, and we'll tell you if the data disagrees. Nobody leaves in a position they don't like."
+    }
+  ],
+  "takehome": {
+    "eyebrow": "After your fit",
+    "title": "What you take home",
+    "text": "A fit is only as good as what you can do with it later. You leave with the bike set up and the numbers to rebuild it on any bike, anywhere.",
+    "items": [
+      {
+        "icon": "report",
+        "title": "Written fit report",
+        "text": "Every measurement, every change we made and why, photos and video from before and after, and what to try if something flares up."
+      },
+      {
+        "icon": "coords",
+        "title": "Your position as coordinates",
+        "text": "Saddle and bar positions relative to the bottom bracket. Hand these to any shop, builder, or future fitter."
+      },
+      {
+        "icon": "clock",
+        "title": "A record that stays on file",
+        "text": "Come back in five years with a new bike and we start from where we left off, not from zero."
+      },
+      {
+        "icon": "check",
+        "title": "Component recommendations, if any",
+        "text": "Only what the fit showed you need, with sizes. We'll fit parts you buy elsewhere at no charge within the follow-up window."
+      }
+    ],
+    "guarantee": {
+      "stamp": "Free follow-up",
+      "title": "If it isn't right, we keep working",
+      "text": "Ride the new position for a few weeks. Any adjustment within 60 days is free. After that, follow-up visits are $95 for riders we've fitted, for as long as you own the bike."
+    },
+    "report": {
+      "title": "Fit report",
+      "subtitle": "Complete Fit · road",
+      "rows": [
+        {
+          "label": "Saddle height, BB to top",
+          "value": "742 mm",
+          "delta": "was 758"
+        },
+        {
+          "label": "Saddle setback, BB to nose",
+          "value": "62 mm",
+          "delta": "was 48"
+        },
+        {
+          "label": "Reach, saddle to bar centre",
+          "value": "558 mm",
+          "delta": "was 571"
+        },
+        {
+          "label": "Drop, saddle to bar top",
+          "value": "26 mm",
+          "delta": "was 44"
+        },
+        {
+          "label": "Crank length",
+          "value": "165 mm",
+          "delta": "was 172.5"
+        },
+        {
+          "label": "Cleat, fore-aft",
+          "value": "-6 mm",
+          "delta": "rearward"
+        },
+        {
+          "label": "Knee angle at extension",
+          "value": "148°",
+          "delta": "was 142°"
+        },
+        {
+          "label": "Knee tracking, front view",
+          "value": "Neutral",
+          "delta": "was 9 mm inward"
+        }
+      ],
+      "footnote": "Example excerpt. Your report also includes the motion capture angles, side-by-side position comparisons, before and after video, and notes on what to watch for."
+    }
+  },
+  "cta": {
+    "eyebrow": "",
+    "title": "Ready when you are",
+    "text": "Pick a session and a few days that work, and we'll confirm a time within one business day."
+  }
+}

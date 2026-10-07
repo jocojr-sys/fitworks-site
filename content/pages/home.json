@@ -1,0 +1,154 @@
+{
+  "hero": {
+    "eyebrow": "High Speed Video Fitting · Remington, VA",
+    "title": "Stop adapting to your bike.",
+    "text": "We fit the bike to your body, in motion, with 3D data you can see, and we stand behind the result with a free follow-up.",
+    "image": "/images/hero.webp",
+    "primaryCta": {
+      "label": "Book a fit",
+      "href": "/book-a-fit"
+    },
+    "secondaryCta": {
+      "label": "See fits and pricing",
+      "href": "/fits-and-pricing"
+    }
+  },
+  "intro": {
+    "eyebrow": "The studio",
+    "title": "One rider. One fitter. Three hours.",
+    "text": "No second appointment in the next bay and no clock-watching. You pedal on the Retül Müve while Velogic Studio captures both sides in 3D, and every change is tested before it goes on your bike.",
+    "image": "/images/hero.webp",
+    "caption": "The Retül Müve, with Velogic Studio capture on screen",
+    "forks": [
+      {
+        "title": "I already have a bike",
+        "text": "Fix pain, find power, or refresh an old position",
+        "href": "/fits-and-pricing",
+        "primary": true
+      },
+      {
+        "title": "I'm buying a bike",
+        "text": "Get fitted first, then buy the right size and spec",
+        "href": "/fits-and-pricing#fit-before-you-buy",
+        "primary": false
+      }
+    ]
+  },
+  "symptoms": {
+    "eyebrow": "Sound familiar?",
+    "title": "None of this is normal.",
+    "text": "Most riders have quietly adjusted to something. A hand that goes numb at mile 30. A saddle you dread. A knee that complains on the climbs. These are fit problems, and fit problems are fixable.",
+    "items": [
+      {
+        "title": "Numb hands or sore wrists",
+        "text": "Usually too much weight on the front of the bike. Reach, bar height, and saddle tilt are the first places we look."
+      },
+      {
+        "title": "Saddle pain or numbness",
+        "text": "Where you sit on the saddle, and how your pelvis tilts to get there, is usually the cause. The fix is often position first, and then the saddle, from a library you can test on the day."
+      },
+      {
+        "title": "Knee pain, front or back",
+        "text": "Front-of-knee pain tends to mean a saddle that is too low or forward. Behind the knee, the opposite. Cleat position matters more than most riders expect."
+      },
+      {
+        "title": "Neck, shoulders, lower back",
+        "text": "A position you can hold for 20 minutes is not the same as one you can hold for four hours. We look at how you fatigue, not just how you start."
+      },
+      {
+        "title": "Pain on one side only",
+        "text": "Leg length differences, hip rotation, and foot mechanics show up as one-sided symptoms. Capturing both sides at once, and measuring you off the bike, finds what the eye cannot."
+      },
+      {
+        "title": "Can't hold the aero position",
+        "text": "A fast position you cannot sustain is a slow position. We build the aero fit from your road fit, then move forward only as far as your body allows."
+      }
+    ],
+    "note": "If you ride more than a couple of hours a week, or anything on this list sounds familiar, a fit will pay you back in comfort first and watts second."
+  },
+  "finder": {
+    "eyebrow": "Fit finder",
+    "title": "Which fit do you need?",
+    "text": "Three questions. We'll point you at the right session, and tell you why. If you'd rather talk it through, email us before you book."
+  },
+  "process": {
+    "eyebrow": "The process",
+    "title": "What happens in a Complete Fit",
+    "text": "About three hours, in six stages. You'll pedal for a lot of it, so wear your kit. Nothing is changed without you feeling the difference first.",
+    "steps": [
+      {
+        "time": "Before you arrive",
+        "title": "Questionnaire",
+        "text": "Riding history, goals, injuries, and what hurts. We read it before you walk in, so the conversation starts at the interesting part."
+      },
+      {
+        "time": "20 minutes",
+        "title": "Conversation",
+        "text": "What you ride, how far, what you want to change. Pain that comes on at a particular distance or on one side is a clue, and we'll chase it."
+      },
+      {
+        "time": "20 minutes",
+        "title": "Off the bike",
+        "text": "Flexibility, hip and ankle range, leg length, foot structure, and how you squat and balance. Your body sets the limits of the position, not a chart."
+      },
+      {
+        "time": "25 minutes",
+        "title": "Feet first",
+        "text": "Shoe fit, cleat position, arch support, and wedges or shims where needed. Everything above the pedal depends on getting this right."
+      },
+      {
+        "time": "90 minutes",
+        "title": "On the bike, in motion",
+        "text": "No markers to stick on. The camera reads your joints while you pedal, we capture, change one thing, ride again, and compare the two side by side. Each capture takes about fifteen seconds. Your feedback and the numbers decide together what stays."
+      },
+      {
+        "time": "Same day and after",
+        "title": "Report and follow-up",
+        "text": "Your bike leaves set up. Your report arrives within two days with every number and change. Ride it for a few weeks, then come back for the free check."
+      }
+    ],
+    "analogy": "Riders say the session feels like an eye test. Position A, then position B. Better, worse, or about the same? The data narrows the options. Your legs make the final call."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Questions before you book",
+    "items": [
+      {
+        "question": "Do I need to bring my bike?",
+        "answer": "For Complete, Essential, Aero, and touchpoint sessions, yes. We fit you on your own bike so every change goes home with you. For Fit Before You Buy, no bike is needed. We use the adjustable fit bike and give you the numbers."
+      },
+      {
+        "question": "What should I wear and bring?",
+        "answer": "Your cycling kit, your shoes, and any insoles you use. Bring the saddle and bars you ride, even if you hate them. If you've had a fit before, bring the report."
+      },
+      {
+        "question": "How long does it take?",
+        "answer": "Complete Fit runs 2.5 to 3 hours. Essential Fit is about 90 minutes. Aero fits can run to 4 hours. Touchpoint sessions are an hour. We book one rider at a time, so if yours needs longer, it gets longer."
+      },
+      {
+        "question": "Is a fit only for racers?",
+        "answer": "No. Most of our riders are not racing anyone. If you ride more than two or three hours a week, or anything hurts, a fit is worth more than almost any upgrade you can bolt on."
+      },
+      {
+        "question": "Will I need to buy parts?",
+        "answer": "Sometimes a stem, bars, or saddle turns out to be the wrong size for you. We'll tell you, with the exact spec, and you can buy it from us or anywhere else. We keep common stems, spacers, wedges, and shims on hand so most changes happen on the day."
+      },
+      {
+        "question": "Can I get two bikes fitted in one visit?",
+        "answer": "Yes. A second bike in the same session is $150, and it goes faster because the assessment is done. Allow an extra hour."
+      },
+      {
+        "question": "What if it doesn't feel right afterwards?",
+        "answer": "Ride it for a couple of weeks. Small changes take time to settle. If something still isn't right, come back within 60 days and we adjust at no charge. We would rather see you again than have you quietly move the saddle back."
+      },
+      {
+        "question": "What's your cancellation policy?",
+        "answer": "Reschedule or cancel up to 72 hours before your session for a full refund. Inside 72 hours the fee is non-refundable, because the slot was held for you alone."
+      },
+      {
+        "question": "Do you offer gift vouchers or payment plans?",
+        "answer": "Both. Vouchers are available for any session. Full fits can be split into three monthly payments at checkout with no interest."
+      }
+    ]
+  }
+}
