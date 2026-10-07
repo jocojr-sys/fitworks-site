@@ -11,7 +11,7 @@
     "Fri",
     "Sat"
   ],
-  "slotsHint": "Morning and afternoon slots on each day. Fits start at 9:00 and 13:30.",
+  "slotsHint": "Morning and afternoon slots on each day. Fits start at 9:00am and 5:00pm",
   "notesLabel": "What's going on with your riding?",
   "notesPlaceholder": "What hurts, what you ride, and what you'd like to change. Short is fine.",
   "submitLabel": "Request a time",
